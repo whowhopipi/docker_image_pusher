@@ -1,6 +1,1 @@
-snowdreamtech/frps:0.46.1
-nginx:1.23.3
-teddysun/kms:latest
-dreamacro/clash-premium:2023.03.04
-ubuntu/squid:5.2-22.04_beta
-kylemanna/openvpn:2.4
+linuxserver/wireguard:1.0.20210914
