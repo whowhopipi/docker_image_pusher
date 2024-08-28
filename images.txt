@@ -1,2 +1,1 @@
-gitlab/gitlab-ee:17.2.4-ee.0
-gitlab/gitlab-ee:17.3.1-ee.0
+linuxserver/qbittorrent:4.6.6
